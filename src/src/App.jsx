@@ -6,6 +6,7 @@ import Projects from "./components/Projects";
 import Journey from "./components/Journey";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 import { ThemeProvider } from "./context/ThemeContext";
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
           <Resume />
           <Contact />
         </main>
+        <Footer />
       </div>
     </ThemeProvider>
   );

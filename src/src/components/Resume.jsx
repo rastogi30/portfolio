@@ -23,9 +23,9 @@ function Resume() {
         className="flex flex-col gap-4 rounded-2xl border border-[var(--border)] bg-[var(--card)]/90 px-6 py-12 shadow-[var(--shadow-soft)] transition-colors duration-300 sm:flex-row sm:items-center sm:justify-between sm:px-10"
       >
         <div className="space-y-2">
-          <h2 className="text-2xl font-semibold text-[var(--text-primary)]">Resume ready on request</h2>
+          <h2 className="text-2xl font-semibold text-[var(--text-primary)]">Get My Resume</h2>
           <p className="text-sm leading-relaxed text-[var(--text-muted)]">
-            Open the latest one-page summary in a new tab. For tailored updates, reach out ahead of interviews.
+            Explore my skills, experience, and accomplishments. Download my resume to learn more about what I bring to the table.
           </p>
         </div>
         <motion.a
